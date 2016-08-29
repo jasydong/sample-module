@@ -14,5 +14,6 @@
     "psr-4": {
       "JasyDong\\SampleModule\\": ""
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
